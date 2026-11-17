@@ -355,7 +355,9 @@
   "logo": "assets/logo.png",
   "structure": "ledger",
   "imageSet": "set-1",
-  "verification": [],
+  "verification": [
+    "FZiaZG_PgEzI8VtFyPgZj1J9rk97Wnq_mGMotOkL0qk"
+  ],
   "home": {
     "sub": "We handle air conditioning work for homes, apartments, offices, and shops across Austin, Rollingwood, West Lake Hills, and Lost Creek.",
     "title": "Air Conditioning Austin | Austin, TX",
